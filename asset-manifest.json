@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-app-vk/static/css/main.130cc1ab.css",
+    "main.js": "/test-app-vk/static/js/main.008c8f10.js",
+    "index.html": "/test-app-vk/index.html",
+    "main.130cc1ab.css.map": "/test-app-vk/static/css/main.130cc1ab.css.map",
+    "main.008c8f10.js.map": "/test-app-vk/static/js/main.008c8f10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.130cc1ab.css",
+    "static/js/main.008c8f10.js"
+  ]
+}
